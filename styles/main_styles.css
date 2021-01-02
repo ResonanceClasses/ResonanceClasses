@@ -878,7 +878,7 @@ aboutme
 }
 .hero_box_title
 {
-	font-size: 24px;
+	font-size: 18px;
 	font-weight: 500;
 	color: #FFFFFF;
 	margin-bottom: 7px;
@@ -1005,9 +1005,9 @@ aboutme
 }
 .card-text
 {
-	font-size: 14px;
+	font-size: 18px;
 	font-weight: 500;
-	color: #a5a5a5;
+	color: #000000;
 	margin-top: -12px;
 }
 .price_box

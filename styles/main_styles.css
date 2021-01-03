@@ -339,7 +339,7 @@ section
 .logo span
 {
 	font-family: 'Open Sans', sans-serif;
-	font-size: 2vw;
+	font-size: 1vw;
 	font-weight: 900;
 	color: #3a3a3a;
 	vertical-align: middle;
@@ -349,9 +349,9 @@ section
 .logo p
 {
 	font-family: 'Open Sans', sans-serif;
-	font-size: 2vmin;
+	font-size: 2.2vmin;
 	font-weight: 500;
-	line-height: 1	;
+	line-height: 1.1	;
 	color: #949090;
 	vertical-align: middle;
 	/* text-transform: uppercase; */
